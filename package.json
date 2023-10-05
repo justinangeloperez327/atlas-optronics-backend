@@ -1,0 +1,22 @@
+{
+  "name": "atlas-optronics",
+  "version": "1.0.0",
+  "description": "atlas-optronics-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "express-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinangeloperez327/atlas-optronics-backend.git"
+  },
+  "keywords": [
+    "atlas-optronics-backend"
+  ],
+  "author": "Justin Angelo Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinangeloperez327/atlas-optronics-backend/issues"
+  },
+  "homepage": "https://github.com/justinangeloperez327/atlas-optronics-backend#readme"
+}
